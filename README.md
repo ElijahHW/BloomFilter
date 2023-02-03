@@ -1,1 +1,4 @@
-# BloomFilter
+# Bloom Filter Algorithm
+
+This software will in practice show what a Bloom Filter is, the process of the Bloom Filter and the benefits of using it. Though we might not be aware of it the usage of Bloom Filters are often used in the online world. Every time you sign-up for a newsletter subscription or register a nickname on a forum, there is a chance that there is a Bloom Filter involved in the process. The all too familiar: ``"This nickname is already in use"`` or ``"Email has already been registered"`` are messages we have all encountered one time or another. Whenever a service gives you this message there is a good chance that the Bloom Filter technique is involved in
+the process
