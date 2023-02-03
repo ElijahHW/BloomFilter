@@ -1,7 +1,6 @@
 #
 ##
 ## Bloom Filter - Python Software
-## Elias W. Harvik-Wright // 583619
 ##
 #
 
@@ -52,7 +51,7 @@ def converter(bloom: list):
 
 ## Function to write given final output to a file.
 def writeToFile(string :str):
-    BFFile = open('BF_583619.txt', "w")
+    BFFile = open('result.txt', "w")
     BFFile.write(string)
     BFFile.close()
 
